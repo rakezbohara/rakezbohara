@@ -1,4 +1,5 @@
 ### Hi there 👋
+<a href="https://app.daily.dev/rakezb"><img src="https://api.daily.dev/devcards/v2/NKBRf3m54WTTxA7ZJBeEv.png?type=wide&r=c9q" width="652" alt="Rakesh Bohara's Dev Card"/></a>
 
 I have professionally been involved in software development for the last 7+ years. Initially, I started as a PHP/Laravel development.
 In the same company new project of android application development is needed. That’s where I got involved in Android development using Java
